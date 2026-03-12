@@ -1,10 +1,10 @@
 {
-  "name": "open5gs",
+  "name": "omnoss",
   "version": "2.7.0",
-  "description": "Open5gs",
+  "description": "OMNOSS Platform",
   "main": "index.js",
   "repository": "https://github.com/open5gs/open5gs/webui",
-  "author": "Open5gs Group",
+  "author": "OMNOSS Group",
   "license": "AGPL-3.0",
   "dependencies": {
     "axios": "^0.27.2",
